@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "pab953",
+    "slug": "pab953",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/bgpab953.jpeg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/bgpab953.jpeg",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/bgpab953.jpeg"
+    }
+  }
+}
